@@ -2,7 +2,7 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
-[![Build Status](https://dev.azure.com/guidosimoneadc/Calculator/_apis/build/status/GuidoAdC.calculator?branchName=master)](https://dev.azure.com/guidosimoneadc/Calculator/_build/latest?definitionId=7&branchName=master)
+[![Build Status](https://dev.azure.com/guidosimoneadc/Calculator/_apis/build/status/GuidoAdC.calculator?branchName=master)(https://dev.azure.com/guidosimoneadc/Calculator/_build/latest?definitionId=7&branchName=master)]
 
 
 The project contains a simple node.js application that exposes REST APIs
