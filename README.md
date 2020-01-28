@@ -6,7 +6,7 @@ a pocket calculator.
 
 en de oude van Arie:
 
-[![Build Status](https://dev.azure.com/MocPandinus/Calculator/_apis/build/status/AriedeHaan.calculator?branchName=master)](https://dev.azure.com/MocPandinus/Calculator/_build/latest?definitionId=5&branchName=master)
+[![Build Status](https://dev.azure.com/guidosimoneadc/Calculator/_apis/build/status/GuidoAdC.calculator?branchName=master)](https://dev.azure.com/MocPandinus/Calculator/_build/latest?definitionId=5&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
